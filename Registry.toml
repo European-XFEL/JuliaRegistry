@@ -1,4 +1,4 @@
-name = "xfel"
+name = "exfel"
 uuid = "0cd8f546-b0a1-4bfe-a104-ff32af62e845"
 repo = "git@github.com:European-XFEL/JuliaRegistry.git"
 
