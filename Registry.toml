@@ -3,4 +3,4 @@ uuid = "0cd8f546-b0a1-4bfe-a104-ff32af62e845"
 repo = "git@github.com:European-XFEL/JuliaRegistry.git"
 
 [packages]
-ff5929f2-4478-5c50-a7ea-e65c06704854 = { name = "cimnodes_editor_jll", path = "jll/C/cimnodes_editor_jll" }
+
